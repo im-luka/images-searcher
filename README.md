@@ -1,16 +1,15 @@
-# photos_api
+# Images Searcher
 
-A new Flutter project.
+Mobile application where the user can search images for a specific topic.
 
-## Getting Started
+Project Screenshots: 
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/46372998/178005823-f76177c7-3595-4bc8-a304-e125d6eb259c.jpeg" width="400px" />
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/46372998/178005840-8292aa96-4596-41b3-8edc-465500bf9337.jpeg" width="400px" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://user-images.githubusercontent.com/46372998/178005850-391b4b66-46fb-4bcf-a49a-38f83876ff3b.jpeg" width="400px" />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/46372998/178005867-bb482d8a-7ebf-45b1-a1fa-7c623ed2f51d.jpeg" width="400px" />
+
+<img src="https://user-images.githubusercontent.com/46372998/178005878-83ec8afc-2bcc-4362-b1d0-6e6d3f49949a.jpeg" width="400px" />
